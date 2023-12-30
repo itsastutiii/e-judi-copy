@@ -1,14 +1,5 @@
 # -23AAC02
 
-**TEAM DETAILS**
-
-Meet the team behind the project: Astuti S, Saisree P, Svapnnika, Varshith, Vitesh B. The team was mentored by Padmakshaya.
-
-**GLOSSARY**
-
-BaaS: Backend-as-a-Service
-RBAC: Role Based Access Control 
-
 **ABSTRACT**
 
 Welcome to E-Judi, a premier, centralized, tech-powered court operations platform poised to address real-time challenges plaguing the Indian judicial system. Equipped with a comprehensive suite of features, this app streamline court operations and catalyses the democratization of the legal landscape. Our key goals with this app include transparency, accessibility, and efficiency; three words not usually associated with the existing judicial system, despite the government’s efforts. We aim to aid courts in achieving paperless justice delivery, furthering Nandan Nilekani’s vision of achieving Atmanirbhar Bharat via development of in-house capacity and capability to drive social development of the country. 
@@ -16,6 +7,7 @@ Welcome to E-Judi, a premier, centralized, tech-powered court operations platfor
 **KEY FEATURES**
 
 **E-FILING** 
+
 Our Model: A powerful digitising tool, virtually recreating the traditional case filing system on a single platform. We use Google Firebase as our BaaS Database platform. 
 
 Expansion Plans: Future initiatives include onboarding e-services of other government agencies. For example, the police have their own systems in place for evidence processing, FIR protocols, etc. All of these can be given a path to our app and a unified case can be filed. Our current system houses an Upload Documents section under E-Filing, but the aforementioned is a more direct and failsafe method. 
@@ -42,3 +34,14 @@ Expansion Plans: The addition of a web crawler for faster lookup, is also useful
 **CONCLUSION** 
 
 A system of this nature is designed to be inclusive, drawing in judges, litigants, advocates, other stakeholders and citizens to correct inequalities in information distribution, cutting across the otherwise hierarchical and potentially corrupt mechanisms of a typical Indian court. It will also allow for systematic case planning, help save time, aid in the decision-making process, and improve accountability. Serving as a consolidated information source, it establishes connections between multiple departments and institutions. With continuous improvement at its core, E-Judi sets a new standard by not only streamlining existing processes but also introducing innovative functionalities. This platform is not just a tool; it is a commitment to reshaping the legal landscape, making justice more accessible and citizen-friendly.
+
+
+**TEAM DETAILS**
+
+Meet the team behind the project: Astuti S, Saisree P, Svapnnika, Varshith, Vitesh B. The team was mentored by Padmakshaya.
+
+**GLOSSARY**
+
+BaaS: Backend-as-a-Service
+RBAC: Role Based Access Control
+
