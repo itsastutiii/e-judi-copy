@@ -43,5 +43,6 @@ Meet the team behind the project: Astuti S, Saisree P, Svapnnika, Varshith, Vite
 **GLOSSARY**
 
 BaaS: Backend-as-a-Service
+
 RBAC: Role Based Access Control
 
